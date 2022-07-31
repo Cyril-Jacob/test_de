@@ -1,0 +1,23 @@
+1. Quels sont les éléments à considérer pour faire évoluer votre code afin qu’il puisse gérer de grosses
+volumétries de données (fichiers de plusieurs To ou millions de fichiers par exemple) ?
+
+Les éléments à considérer de notre code sont ses consommations ressources  d'un point de vue CPU, Mémoire et réseau et sa capacité à être parallélisé.
+Avec une volumétrie plus importante, il faudra envisager de passer sur du code qui tire parti des frameworks pour faire du calcul distribué tel que spark et dataflow,
+avec un découpage et une répartition des tâches en fonction du dimensionnement de notre cluster.
+On préfera le découpage des gros fichiers en plus petit fichiers pour une mise à l'échelle, un débogage et une reprise après échec plus simple et plus rapide.
+
+
+2. Pourriez-vous décrire les modifications qu’il faudrait apporter, s’il y en a, pour prendre en considération de
+telles volumétries ?
+
+J'ai essayé d'utiliser l'iterator pattern (via yield) au niveau du package afin de ne pas avoir 
+à charger toutes les données en entrée en mémoire. Concernant le data pipeline il faudra faire attention à nos structure de données à base de Python 
+data structure de type list, set, dict, ainsi que les objets instantiés qui peuvent rapidement prendre de la place en mémoire (donc une optimisation est souhaitable) et préférer du processing en mode streaming 
+afin de réduire l'empreinte mémoire, et si ce n'est pas suffisant de la sérialisation/désérialisation sur le disque ou le réseau. 
+JSON se stream et se sérialise bien.
+
+
+
+
+
+

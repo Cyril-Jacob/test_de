@@ -1,0 +1,10 @@
+#ignore
+venv/
+build/
+__pycache__/
+.mypy_cache/
+drug_journal.egg-info/
+.eggs/
+.dmypy.json
+dist/
+data/output/

@@ -1,0 +1,160 @@
+{
+    "betamethasone": {
+        "journal": [
+            {
+                "date": "01/01/20",
+                "title": "The journal of maternal-fetal & neonatal medicine"
+            },
+            {
+                "date": "01/01/20",
+                "title": "Journal of back and musculoskeletal rehabilitation"
+            },
+            {
+                "date": "01/01/20",
+                "title": "Hôpitaux Universitaires de Genève"
+            }
+        ],
+        "pubmed": [
+            {
+                "date": "01/01/20",
+                "title": "clinical implications of umbilical artery doppler changes after betamethasone administration"
+            },
+            {
+                "date": "01/01/20",
+                "title": "effects of topical application of betamethasone on imiquimod-induced psoriasis-like skin inflammation in mice."
+            }
+        ],
+        "scientific": [
+            {
+                "date": "01/01/20",
+                "title": "preemptive infiltration with betamethasone and ropivacaine for postoperative pain in laminoplasty or  laminectomy"
+            }
+        ]
+    },
+    "diphenhydramine": {
+        "journal": [
+            {
+                "date": "01/01/19",
+                "title": "Journal of emergency nursing"
+            },
+            {
+                "date": "01/01/19",
+                "title": "Journal of emergency nursing"
+            },
+            {
+                "date": "02/01/19",
+                "title": "The Journal of pediatrics"
+            },
+            {
+                "date": "01/01/20",
+                "title": "Journal of emergency nursing"
+            },
+            {
+                "date": "01/01/20",
+                "title": "Journal of emergency nursing"
+            },
+            {
+                "date": "01/01/20",
+                "title": "Journal of emergency nursing"
+            }
+        ],
+        "pubmed": [
+            {
+                "date": "01/01/19",
+                "title": "a 44-year-old man with erythema of the face diphenhydramine, neck, and chest, weakness, and palpitations"
+            },
+            {
+                "date": "01/01/19",
+                "title": "an evaluation of benadryl, pyribenzamine, and other so-called diphenhydramine antihistaminic drugs in the treatment of allergy."
+            },
+            {
+                "date": "02/01/19",
+                "title": "diphenhydramine hydrochloride helps symptoms of ciguatera fish poisoning."
+            }
+        ],
+        "scientific": [
+            {
+                "date": "01/01/20",
+                "title": "use of diphenhydramine as an adjunctive sedative for colonoscopy in patients chronically on opioids"
+            },
+            {
+                "date": "01/01/20",
+                "title": "phase 2 study iv quzyttir™ (cetirizine hydrochloride injection) vs v diphenhydramine"
+            },
+            {
+                "date": "01/01/20",
+                "title": "feasibility of a randomized controlled clinical trial comparing the use of cetirizine to replace diphenhydramine in the prevention of reactions related to paclitaxel"
+            }
+        ]
+    },
+    "epinephrine": {
+        "journal": [
+            {
+                "date": "01/02/20",
+                "title": "The journal of allergy and clinical immunology. In practice"
+            },
+            {
+                "date": "01/03/20",
+                "title": "The journal of allergy and clinical immunology. In practice"
+            },
+            {
+                "date": "27/04/20",
+                "title": "Journal of emergency nursing"
+            }
+        ],
+        "pubmed": [
+            {
+                "date": "01/02/20",
+                "title": "the high cost of epinephrine autoinjectors and possible alternatives."
+            },
+            {
+                "date": "01/03/20",
+                "title": "time to epinephrine treatment is associated with the risk of mortality in children who achieve sustained rosc after traumatic out-of-hospital cardiac arrest."
+            }
+        ],
+        "scientific": [
+            {
+                "date": "27/04/20",
+                "title": "tranexamic acid versus epinephrine during exploratory tympanotomy"
+            }
+        ]
+    },
+    "isoprenaline": {
+        "journal": [
+            {
+                "date": "01/01/20",
+                "title": "Journal of photochemistry and photobiology. B, Biology"
+            }
+        ],
+        "pubmed": [
+            {
+                "date": "01/01/20",
+                "title": "gold nanoparticles synthesized from euphorbia fischeriana root by green route method alleviates the isoprenaline hydrochloride induced myocardial infarction in rats."
+            }
+        ],
+        "scientific": []
+    },
+    "tetracycline": {
+        "journal": [
+            {
+                "date": "01/01/20",
+                "title": "Journal of food protection"
+            },
+            {
+                "date": "02/01/20",
+                "title": "American journal of veterinary research"
+            }
+        ],
+        "pubmed": [
+            {
+                "date": "01/01/20",
+                "title": "tetracycline resistance patterns of lactobacillus buchneri group strains."
+            },
+            {
+                "date": "02/01/20",
+                "title": "appositional tetracycline bone formation rates in the beagle."
+            }
+        ],
+        "scientific": []
+    }
+}

@@ -1,0 +1,6 @@
+#ignore
+*
+
+#Allow
+!.gitignore
+!drug_journal_uml.png

@@ -1,0 +1,9 @@
+Jinja2
+json5
+MarkupSafe
+mypy
+mypy-extensions
+pdoc
+Pygments
+tomli
+typing_extensions
